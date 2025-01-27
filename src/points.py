@@ -2,11 +2,11 @@ import streamlit as st
 import json
 import os
 
-from .utils import format_league_name
+from .utils import format_name
 
 
 def show_points_page(selected_league):
-    formatted_league_name = format_league_name(selected_league)
+    formatted_league_name = format_name(selected_league)
     st.title(f"Points for {formatted_league_name} 🎯")
 
     # Path to the points.json file for the selected league

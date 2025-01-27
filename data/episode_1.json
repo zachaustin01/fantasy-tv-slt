@@ -1,0 +1,20 @@
+{
+    "episode": 1,
+    "events": [
+        {
+            "contestant": "Jane Doe",
+            "event": "Receives a rose",
+            "timestamp": "00:15:30"
+        },
+        {
+            "contestant": "John Smith",
+            "event": "Cries on camera",
+            "timestamp": "00:20:45"
+        },
+        {
+            "contestant": "Jane Doe",
+            "event": "First kiss",
+            "timestamp": "00:45:12"
+        }
+    ]
+}
