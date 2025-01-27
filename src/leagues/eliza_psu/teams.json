@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Team Rose",
+        "roster": [
+            "Jane Doe",
+            "John Smith"
+        ]
+    },
+    {
+        "name": "Team Blossom",
+        "roster": [
+            "Emily Rose",
+            "Chris Green"
+        ]
+    }
+]
