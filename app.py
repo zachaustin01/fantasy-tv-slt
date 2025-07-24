@@ -73,7 +73,7 @@ elif page == "Episode Data":
     selected_episode_key = episode_mapping.get(selected_episode)
 
     if selected_episode_key:
-        show_episodes_page(selected_episode_key)
+        show_episodes_page(selected_episode_key, selected_league_key)
     else:
         st.error("No episode selected. Please select an episode.")
 

@@ -2,19 +2,129 @@
     "episode": 1,
     "events": [
         {
-            "contestant": "Jane Doe",
+            "contestant": "Lea",
+            "event": "Receives a special card to steal a one-on-one date",
+            "timestamp": "00:30:15"
+        },
+        {
+            "contestant": "Jess",
+            "event": "Receives the first kiss",
+            "timestamp": "00:35:00"
+        },
+        {
+            "contestant": "Daisy",
+            "event": "Receives a kiss",
+            "timestamp": "00:45:00"
+        },
+        {
+            "contestant": "Lexi",
+            "event": "Receives a kiss",
+            "timestamp": "00:50:30"
+        },
+        {
+            "contestant": "Lea",
+            "event": "Receives the First Impression Rose",
+            "timestamp": "01:05:45"
+        },
+        {
+            "contestant": "Allison",
             "event": "Receives a rose",
-            "timestamp": "00:15:30"
+            "timestamp": "01:15:00"
         },
         {
-            "contestant": "John Smith",
-            "event": "Cries on camera",
-            "timestamp": "00:20:45"
+            "contestant": "Daisy",
+            "event": "Receives a rose",
+            "timestamp": "01:16:00"
         },
         {
-            "contestant": "Jane Doe",
-            "event": "First kiss",
-            "timestamp": "00:45:12"
+            "contestant": "Kelsey T.",
+            "event": "Receives a rose",
+            "timestamp": "01:17:00"
+        },
+        {
+            "contestant": "Lexi",
+            "event": "Receives a rose",
+            "timestamp": "01:18:00"
+        },
+        {
+            "contestant": "Jess",
+            "event": "Receives a rose",
+            "timestamp": "01:19:00"
+        },
+        {
+            "contestant": "Jenn",
+            "event": "Receives a rose",
+            "timestamp": "01:20:00"
+        },
+        {
+            "contestant": "Autumn",
+            "event": "Receives a rose",
+            "timestamp": "01:21:00"
+        },
+        {
+            "contestant": "Chrissa",
+            "event": "Receives a rose",
+            "timestamp": "01:22:00"
+        },
+        {
+            "contestant": "Kelsey A.",
+            "event": "Receives a rose",
+            "timestamp": "01:23:00"
+        },
+        {
+            "contestant": "Katelyn",
+            "event": "Receives a rose",
+            "timestamp": "01:24:00"
+        },
+        {
+            "contestant": "Rachel",
+            "event": "Receives a rose",
+            "timestamp": "01:25:00"
+        },
+        {
+            "contestant": "Erika",
+            "event": "Receives a rose",
+            "timestamp": "01:26:00"
+        },
+        {
+            "contestant": "Madina",
+            "event": "Receives a rose",
+            "timestamp": "01:27:00"
+        },
+        {
+            "contestant": "Sydney",
+            "event": "Receives a rose",
+            "timestamp": "01:28:00"
+        },
+        {
+            "contestant": "Starr",
+            "event": "Receives a rose",
+            "timestamp": "01:29:00"
+        },
+        {
+            "contestant": "Marlena",
+            "event": "Receives a rose",
+            "timestamp": "01:30:00"
+        },
+        {
+            "contestant": "Maria",
+            "event": "Receives a rose",
+            "timestamp": "01:31:00"
+        },
+        {
+            "contestant": "Taylor",
+            "event": "Receives a rose",
+            "timestamp": "01:32:00"
+        },
+        {
+            "contestant": "Evalin",
+            "event": "Receives a rose",
+            "timestamp": "01:33:00"
+        },
+        {
+            "contestant": "Lauren",
+            "event": "Receives a rose",
+            "timestamp": "01:34:00"
         }
     ]
 }

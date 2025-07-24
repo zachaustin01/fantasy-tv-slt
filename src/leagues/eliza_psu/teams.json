@@ -2,15 +2,29 @@
     {
         "name": "Team Rose",
         "roster": [
-            "Jane Doe",
-            "John Smith"
+            "Lea",
+            "Jess",
+            "Daisy",
+            "Lexi",
+            "Allison",
+            "Kelsey T.",
+            "Kelsey A.",
+            "Katelyn",
+            "Rachel",
+            "Erika"
         ]
     },
     {
         "name": "Team Blossom",
         "roster": [
-            "Emily Rose",
-            "Chris Green"
+            "Madina",
+            "Sydney",
+            "Starr",
+            "Marlena",
+            "Maria",
+            "Taylor",
+            "Evalin",
+            "Lauren"
         ]
     }
 ]

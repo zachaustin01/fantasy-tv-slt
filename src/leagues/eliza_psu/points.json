@@ -1,12 +1,17 @@
 {
-    "🌹 Receives a rose": 10,
-    "💋 First kiss": 15,
-    "🥂 Makes a toast": 5,
-    "💔 Gets eliminated": -5,
-    "😱 Cries on camera": 8,
-    "🎤 Interrupts another contestant's conversation": 6,
-    "🏊‍♀️ Wins a group date competition": 20,
-    "💍 Makes it to the final 2": 50,
-    "🧑‍⚖️ Argues with another contestant": 10,
-    "🕶️ Uses the phrase 'here for the right reasons'": 12
+    "First kiss": 10,
+    "First Impression Rose": 25,
+    "Steal time with the bachelor": 5,
+    "Gloat about a kiss": 5,
+    "Mention personal hardship (e.g., cochlear implant)": 3,
+    "Give advice to bachelor": 3,
+    "Give up a special advantage (e.g., Lea throwing her card in the fire)": 20,
+    "Impress bachelor with maturity": 15,
+    "Give comforting words to bachelor": 10,
+    "First to arrive on the scene": 5,
+    "Rose ceremony selection": 10,
+    "Have an emotional moment": 5,
+    "Interrupt others for more time with the bachelor": 10,
+    "Make a bold move (e.g., Lea stealing a date)": 15,
+    "Show vulnerability or character": 20
 }
